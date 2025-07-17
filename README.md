@@ -1,28 +1,69 @@
 # 👋 Hi, I'm Siddharth Dhanasekar!
 
-🎓 I'm a Computer Engineering student at Georgia Tech with a passion for solving real-world problems through **software engineering**, **data science**, and **embedded systems**. I’ve interned at exciting startups, contributed to award-winning hackathons, and explored the intersection of hardware and software through hands-on projects.
+I'm a Computer Engineering student at Georgia Tech (🇺🇸 U.S. Citizen), passionate about building software and AI systems that push the boundaries of innovation — from deepfake detection to quantum-safe encryption. I’ve had the opportunity to lead engineering projects, found an EdTech startup, and conduct impactful research at top institutions like Stanford and West Chester University.
 
-## 🔧 Tech Stack
+---
 
-- **Languages:** Python, C++, Java, Scala, R, PowerShell, JavaScript, HTML/CSS  
-- **Frameworks & Tools:** Flask, Django, Bootstrap, AWS (IoT Core, Lambda), REST APIs, Postman, Google Analytics, Chrome DevTools  
-- **Data & Cloud:** MariaDB, AWS, Plotly, Data Modeling, Linux Shell Scripting  
-- **Hardware & Systems:** VHDL, Embedded Programming, SCOMP architecture, Peripheral Design
+## 💼 Experience Highlights
 
-## 🚀 Experience
+**🔍 Equifax** — *Software Engineering & ML Intern*  
+*Jan 2025 – Present*  
+- Automated CI/CD pipelines with Jenkins, Docker, and Kubernetes (🚀 40% faster deployments)  
+- Built a deepfake detection model using CNNs on Google Cloud with 91% accuracy  
 
-- **EV Bots, Inc.** — *Software Development Intern*  
-  Designed features for autonomous EV charging robots and built the website layout. Worked with fleet-focused companies like Hertz and Motiv Power Systems.
+**📊 State Farm** — *Software Engineering & Business Intelligence Intern*  
+*Aug 2023 – Aug 2024*  
+- Built ML-driven lead scoring and automated CRM tools to boost policy sales  
+- Developed real-time ETL pipelines for predictive analytics  
 
-- **Simple Neat Solutions** — *Web Development Intern*  
-  Developed the company’s website from scratch, supported SEO optimization, UX research, and debugging/testing for production readiness.
+**🤖 EV Bots** — *AI/ML Software Intern*  
+*Jun 2023 – Aug 2023*  
+- Engineered Python/C++ algorithms to optimize robot routing and predict equipment failures  
+- Integrated AWS for scalable data pipelines and business modeling  
 
-- 🏆 **HackGT Winner**  
-  Built an AI-powered wound diagnosis app that uses speech to identify treatment steps. Overcame time and tech stack constraints to deliver a full-stack deployment in 36 hours.
+**🚀 Codedible Corp.** — *Founder & CEO*  
+*Dec 2021 – Present*  
+- Delivered personalized AI-powered learning to 7,500+ students in underserved areas  
+- Partnered with Google Fi and InspirEdu to launch large-scale EdTech events like *The Great Race*
 
-## 🧠 Interests
+---
 
-- 🔬 **Quantum Computing** & its applications in cloud and security  
-- ⚙️ **Hardware/Software Startups** solving real problems for small businesses  
-- 📈 **Data Analytics & Cloud Computing** to drive decisions and insights
+## 🧪 Research
+
+**Quantum-Resistant RSA Cryptography** — *West Chester University*  
+*Aug 2023 – May 2024*  
+- Strengthened RSA using lattice-based cryptography (LLL, SVP, CVP), improving resistance by 220%
+
+**Healthcare Equity Analytics** — *Stanford University*  
+*Oct 2023 – Jul 2024*  
+- Built ML pipeline with Scikit-learn/XGBoost and NLP using Hugging Face Transformers  
+- Deployed FastAPI-based data ingestion system for real-time analysis of healthcare access gaps  
+
+---
+
+## ⚙️ Projects
+
+- **🧠 Wound AI** – A multimodal AI system combining CNNs and LLMs for wound classification  
+  *Achieved 92.3% F1-score on an augmented medical image dataset using transfer learning*  
+
+- **🖼️ Synthetic Wound Image Generation (DCGANs)**  
+  *Reduced FID by 25% through progressive growing and advanced GAN stabilization techniques*  
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages:** Java, Python, C/C++, Swift, JavaScript, PHP, SQL, MATLAB  
+**Frameworks/Tech:** TensorFlow, PyTorch, React, FastAPI, Salesforce, Android Studio, AWS, Docker, Kubernetes  
+**Certifications:** IBM Data Science, MIT Supply Chain Tech, Intuit Social Innovator, CS50x  
+
+---
+
+## 🏆 Awards
+
+- 🥇 1st Place – HackGT  
+- 🥇 1st Place – Reinhardt University Science Fair  
+- 🥉 4th Place – National Website Design Competition  
+
+---
 
