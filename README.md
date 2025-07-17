@@ -8,17 +8,17 @@ I'm passionate about solving real-world problems through software, machine learn
 
 ## 💼 Experience
 
-- **Equifax** – Built a deepfake detection model (91% accuracy) and automated CI/CD with Docker/K8s
-- **State Farm** – Deployed ML-based lead scoring and real-time ETL pipelines for analytics
-- **EV Bots** – Developed C++/Python algorithms for robot routing + AWS-based data pipelines
+- **Equifax** – Built a deepfake detection model (91% accuracy) and automated CI/CD with Docker/K8s  
+- **State Farm** – Deployed ML-based lead scoring and real-time ETL pipelines for analytics  
+- **EV Bots** – Developed C++/Python algorithms for robot routing + AWS-based data pipelines  
 - **Codedible (Founder)** – Scalable AI-driven learning tools for underserved students (7,500+ reached)
 
 ---
 
 ## 📊 Projects & Research
 
-- **Wound AI** – Multimodal CNN + LLM system for image and clinical note analysis (92.3% F1)
-- **Quantum-Safe RSA** – Applied LLL, SVP, and CVP to harden RSA against quantum attacks
+- **Wound AI** – Multimodal CNN + LLM system for image and clinical note analysis (92.3% F1)  
+- **Quantum-Safe RSA** – Applied LLL, SVP, and CVP to harden RSA against quantum attacks  
 - **Healthcare Access (Stanford)** – ML + NLP pipeline to identify gaps in healthcare coverage
 
 ---
@@ -30,4 +30,12 @@ I'm passionate about solving real-world problems through software, machine learn
 **Awards:** 🥇 HackGT, 🥇 Reinhardt Science Fair, 🥉 National Web Design
 
 ---
-✉️ sdhanasekar7@gatech.edu
+
+## 📫 Contact Me
+
+- 📧 Email: [sdhanasekar7@gatech.edu](mailto:sdhanasekar7@gatech.edu)  
+- 🔗 LinkedIn: [linkedin.com/in/siddharth-dhanasekar](https://www.linkedin.com/in/siddharth-dhanasekar)  
+
+---
+
+✨ Passionate about building and creating things that matter.
