@@ -2,7 +2,7 @@
 
 🎓 Computer Engineering @ Georgia Tech | 💻 Software + AI | 🚀 Builder | 🇺🇸 U.S. Citizen
 
-I'm passionate about solving real-world problems through software, machine learning, and systems engineering. I've interned at Equifax, State Farm, and EV Bots, and founded an EdTech startup that has impacted 7,500+ students.
+I'm passionate about solving real-world problems through software, machine learning, and systems engineering. I've interned at Equifax, Narb, State Farm, and EV Bots, and founded an EdTech startup that has impacted 7,500+ students.
 
 ---
 
